@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 upgradeClass(HTMLAnchorElement);
 if (/^function|object$/.test(typeof URL)) upgradeClass(URL);

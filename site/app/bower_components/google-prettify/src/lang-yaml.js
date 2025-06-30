@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * @license
  * Copyright (C) 2015 ribrdb @ code.google.com

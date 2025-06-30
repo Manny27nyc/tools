@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
 Note: <body is="body-bind"> is an experiment taken from
 https://github.com/PolymerLabs/polymer-experiments/tree/master/body-bind.

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * @license
  * Copyright (c) 2014 The Polymer Project Authors. All rights reserved.

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*jshint node: true */
 module.exports = function(grunt) {
   // see https://saucelabs.com/rest/v1/info/browsers/webdriver

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
 
  Copyright (c) 2013 by Amro <amroamroamro@gmail.com>
